@@ -29,31 +29,19 @@ products_clean.csv – Contains product-level details including:
 
 Product ID, Product Name, Category, Price, Cost
 
-(All datasets are anonymized and cleaned for educational use.)
 
 ## ⚙️ Tools & Technologies Used
 Category	Tools / Libraries
-Programming	Python
-Data Analysis	Pandas, NumPy
-Visualization	Matplotlib, Seaborn, Power BI
-Documentation	Jupyter Notebook, GitHub, Markdown
-🧠 Python EDA Highlights
-
-Performed in Zilo Project.ipynb
-
-Cleaned and transformed raw data (handled missing values, duplicates, and outliers using the IQR method).
-
-Analyzed sales distribution, product category performance, and order trends.
-
-Used heatmaps and boxplots to identify relationships and high-impact variables.
-
-Prepared processed data for visualization in Power BI.
+Programming	Python<br>
+Data Analysis	Pandas, NumPy<br>
+Visualization	Matplotlib, Seaborn, Power BI<br>
+Documentation	Jupyter Notebook, GitHub, Markdown<br>
 
 ## 📊 Power BI Dashboard
 
 Dashboard Name: Zilo_Analytics_Overview.pbix
 
-🔹 Dashboard Features
+### 🔹 Dashboard Features
 
 Key KPIs: Total Revenue, Total Orders, Average Order Value (AOV), and Total Units Sold.
 
