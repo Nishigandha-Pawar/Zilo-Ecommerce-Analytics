@@ -31,11 +31,11 @@ Product ID, Product Name, Category, Price, Cost
 
 
 ## ⚙️ Tools & Technologies Used
-Category	Tools / Libraries
-Programming	Python<br>
-Data Analysis	Pandas, NumPy<br>
-Visualization	Matplotlib, Seaborn, Power BI<br>
-Documentation	Jupyter Notebook, GitHub, Markdown<br>
+### 	Tools / Libraries
+Programming:	Python<br>
+Libraries & Technologies: Pandas, NumPy	<br>
+Visualization :Pandas, NumPy	,Matplotlib, Seaborn, Power BI<br>
+Documentation	:Jupyter Notebook, GitHub, Markdown<br>
 
 ## 📊 Power BI Dashboard
 
