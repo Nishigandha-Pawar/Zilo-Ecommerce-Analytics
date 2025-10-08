@@ -24,11 +24,11 @@ The analysis includes data cleaning, exploratory data analysis (EDA) in Python, 
 
 ## 🗂️ Dataset Details
 
-orders_clean.csv – Contains order-level information such as:
+➢ orders_clean.csv – Contains order-level information such as:
 
                  Order ID, Date, Quantity, Price, Revenue,Region/City, Payment Method, Customer ID
 
-products_clean.csv – Contains product-level details including:
+➢ products_clean.csv – Contains product-level details including:
 
                 Product ID, Product Name, Category, Price, Cost
 
