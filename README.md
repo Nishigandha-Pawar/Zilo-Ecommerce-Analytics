@@ -14,33 +14,31 @@ The analysis includes data cleaning, exploratory data analysis (EDA) in Python, 
 
 ## 🎯 Objectives
 
-Perform data cleaning and preprocessing for accuracy and consistency.
+• Perform data cleaning and preprocessing for accuracy and consistency.
 
-Conduct exploratory data analysis (EDA) to identify patterns and correlations.
+• Conduct exploratory data analysis (EDA) to identify patterns and correlations.
 
-Build a Power BI dashboard for real-time visualization of key business metrics.
+• Build a Power BI dashboard for real-time visualization of key business metrics.
 
-Generate actionable insights to help Zilo improve sales, marketing, and operations.
+• Generate actionable insights to help Zilo improve sales, marketing, and operations.
 
 ## 🗂️ Dataset Details
 
 orders_clean.csv – Contains order-level information such as:
 
-Order ID, Date, Quantity, Price, Revenue
-
-Region/City, Payment Method, Customer ID
+                 Order ID, Date, Quantity, Price, Revenue,Region/City, Payment Method, Customer ID
 
 products_clean.csv – Contains product-level details including:
 
-Product ID, Product Name, Category, Price, Cost
+                Product ID, Product Name, Category, Price, Cost
 
 
 ## ⚙️ Tools & Technologies Used
 ### 	Tools / Libraries
-Programming:	Python<br>
-Libraries & Technologies: Pandas, NumPy	<br>
-Visualization :Pandas, NumPy	,Matplotlib, Seaborn, Power BI<br>
-Documentation	:Jupyter Notebook, GitHub, Markdown<br>
+• Programming:	Python<br>
+• Libraries & Technologies: Pandas, NumPy	<br>
+• Visualization :Pandas, NumPy	,Matplotlib, Seaborn, Power BI<br>
+• Documentation	:Jupyter Notebook, GitHub, Markdown<br>
 
 ## 📊 Power BI Dashboard
 
