@@ -7,7 +7,7 @@ Zilo is a Mumbai-based online fashion brand offering men’s, women’s, and kid
 
 The analysis includes data cleaning, exploratory data analysis (EDA) in Python, and an interactive Power BI dashboard that visualizes key performance indicators (KPIs) and business trends.
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 ![Dashboard Screenshot](/Screenshot%202025-10-07%20193303.png)
 
 
