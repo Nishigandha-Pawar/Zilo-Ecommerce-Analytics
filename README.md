@@ -35,10 +35,10 @@ products_clean.csv – Contains product-level details including:
 
 ## ⚙️ Tools & Technologies Used
 ### 	Tools / Libraries
-• Programming:	Python<br>
-• Libraries & Technologies: Pandas, NumPy	<br>
-• Visualization :Pandas, NumPy	,Matplotlib, Seaborn, Power BI<br>
-• Documentation	:Jupyter Notebook, GitHub, Markdown<br>
+» Programming:	Python<br>
+» Libraries & Technologies: Pandas, NumPy	<br>
+» Visualization :Pandas, NumPy	,Matplotlib, Seaborn, Power BI<br>
+» Documentation	:Jupyter Notebook, GitHub, Markdown<br>
 
 ## 📊 Power BI Dashboard
 
@@ -46,22 +46,22 @@ Dashboard Name: Zilo_Analytics_Overview.pbix
 
 ### 🔹 Dashboard Features
 
-Key KPIs: Total Revenue, Total Orders, Average Order Value (AOV), and Total Units Sold.
+» Key KPIs: Total Revenue, Total Orders, Average Order Value (AOV), and Total Units Sold.
 
-Sales Trends: Revenue over time with monthly comparison.
+» Sales Trends: Revenue over time with monthly comparison.
 
-Category Performance: Top-performing categories and their contribution to total revenue.
+» Category Performance: Top-performing categories and their contribution to total revenue.
 
-Product Insights: Top 10 products by revenue and price-demand relationship.
+» Product Insights: Top 10 products by revenue and price-demand relationship.
 
-Customer & Regional Insights: Orders by city, payment method, and regional contribution.
+» Customer & Regional Insights: Orders by city, payment method, and regional contribution.
 
 ## 🔍 Key Insights
 
-The top 3 product categories contribute nearly 70% of total revenue.
+• The top 3 product categories contribute nearly 70% of total revenue.
 
-Mumbai region generates the highest number of orders and revenue.
+• Mumbai region generates the highest number of orders and revenue.
 
-High-priced products yield higher margins despite lower sales volume.
+• High-priced products yield higher margins despite lower sales volume.
 
-Weekend orders are significantly higher, indicating potential for weekend promotions.🛍️ Zilo E-Commerce Sales Analytics
+• Weekend orders are significantly higher, indicating potential for weekend promotions.🛍️ Zilo E-Commerce Sales Analytics
