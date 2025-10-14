@@ -8,7 +8,8 @@ This project focuses on analyzing Zilo’s e-commerce sales data to extract acti
 The analysis includes data cleaning, exploratory data analysis (EDA) in Python, and an interactive Power BI dashboard that visualizes key performance indicators (KPIs) and business trends.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](/Screenshot%2025-10-14%230623.png)
+![Dashboard Screenshot](./Screenshot%202025-10-14%20230623.png)
+
 
 
 
