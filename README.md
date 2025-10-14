@@ -3,7 +3,7 @@
 ## 🧩 Project Overview
 
 This project focuses on analyzing Zilo’s e-commerce sales data to extract actionable business insights that can improve product strategy, pricing, and customer retention.
-Zilo is a Mumbai-based online fashion brand offering men’s, women’s, and kids’ apparel with ultra-fast delivery (within 60 minutes to 1 day).
+
 
 The analysis includes data cleaning, exploratory data analysis (EDA) in Python, and an interactive Power BI dashboard that visualizes key performance indicators (KPIs) and business trends.
 
